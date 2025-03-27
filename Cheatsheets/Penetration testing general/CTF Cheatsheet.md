@@ -1,4 +1,26 @@
 
+
+
+# Most used commands
+
+## Stabilize shell
+```
+python -c 'import pty;pty.spawn("/bin/bash")'
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## System Hacking 
 
 ### Nmap Scanning
